@@ -12,5 +12,8 @@ Open PowerShell as Administrator
 Run the following command to allow running the script at startup:  
 ``Set-ExecutionPolicy -Scope CurrentUser Unrestricted``
   
+  (Read and understand the security issues with unrestricted access)
+  
 ## Run at startup  
 Place command script "run_sw_unreg.cmd" in Windows startup folder.
+(Winkey + R type `shell: startup` to open your startup folder)
