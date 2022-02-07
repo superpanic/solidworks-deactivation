@@ -16,4 +16,4 @@ Run the following command to allow running the script at startup:
   
 ## Run at startup  
 Place command script "run_sw_unreg.cmd" in Windows startup folder.  
-(Winkey + R type `shell: startup` to open your startup folder)
+(Winkey + R type `shell:startup` to open your startup folder)
