@@ -15,5 +15,5 @@ Run the following command to allow running the script at startup:
   Please study and understand the security issues with unrestricted access. You might need to do this two times, first in normal ``PowerShell``, and once more in ``Windows PowerShell x86`` as the two environments have different set of policies.
   
 ## Run at startup  
-Place command script "run_sw_unreg.cmd" in Windows startup folder.  
+Place command script ``run_sw_unreg.cmd`` in Windows startup folder.  
 (Winkey + R type `shell:startup` to open your startup folder)
