@@ -8,7 +8,7 @@ Also set the paths to the PowerShell script and log file in the Command script `
       ``PowerShell -WindowStyle Hidden C:\scripts\sw_unreg.ps1 >> C:\scripts\scriptlog.log 2>&1``
 
 ## 2. Prerequisit  
-Open Windows PowerShell as Administrator 
+Open Windows PowerShell as Administrator.  
 Run the following command to allow running the script at startup:  
 ``Set-ExecutionPolicy -Scope CurrentUser Unrestricted``
   
